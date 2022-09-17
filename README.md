@@ -1,9 +1,9 @@
-##### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models
-##### I like various experiences because I am curious.:musical_note:
-##### I like to acquire new knowledge quickly and apply what I learned to work right away:thumbsup:
+#### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models
+#### I like various experiences because I am curious.:musical_note:
+#### I like to acquire new knowledge quickly and apply what I learned to work right away:thumbsup:
 
-##### I'm trying to live a challenging life without regrets.
-##### I will be a Data Scientist who can bring good results!!:fire:
+#### I'm trying to live a challenging life without regrets.
+#### I will be a Data Scientist who can bring good results!!:fire:
 
 ## :metal:Skills
 #### Platforms & Languages
