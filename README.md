@@ -6,7 +6,7 @@
 ##### I will be a Data Scientist who can bring good results!!:fire:
 
 ### :metal:Skills
-https://img.shields.io/badge/<#3776AB>-<MESSAGE>-<COLOR>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <!--
 **Mifekmk/Mifekmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
