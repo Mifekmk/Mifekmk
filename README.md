@@ -5,8 +5,10 @@
 #### I'm trying to live a challenging life without regrets.
 #### I will be a Data Scientist who can bring good results!!:fire:
 
-#### :postbox: rlaalsrb3246@gmail.com
-#### :postbox: sony667@naver.com
+## :envelope: Contact
+#### :email: rlaalsrb3246@gmail.com
+#### :email: sony667@naver.com
+
 
 ## :metal:Skills
 #### Platforms & Languages
