@@ -1,9 +1,9 @@
-### 👋Hi there!:relaxed: I'm a Data Scientist, and I'm using Python to analyze data and make several ML models.
-### I also have plans to study C and Linux:wink:
+👋Hi there!:relaxed: I'm a Data Scientist, and I'm using Python to analyze data and make several ML models.
+I also have plans to study C and Linux:wink:
 
-### I like to participate in the Kaggle competition
-### I enjoy doing projects with various people, so please contact me if you want to participate.:simple_smile:
-### I want to develop everything in a cool and beautiful way!:muscle:
+I like to participate in the Kaggle competition
+I enjoy doing projects with various people, so please contact me if you want to participate.:simple_smile:
+I want to develop everything in a cool and beautiful way!:muscle:
 
 
 <!--
