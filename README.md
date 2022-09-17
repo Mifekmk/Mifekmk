@@ -1,4 +1,5 @@
-### 👋Hi there!:relaxed:
+### 👋Hi there!:relaxed: I'm a Data Scientist, and I'm using Python to analyze data and make several ML models.
+I also have plans to study C and Linux.
 
 <!--
 **Mifekmk/Mifekmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
