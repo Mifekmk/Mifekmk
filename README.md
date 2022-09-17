@@ -1,4 +1,4 @@
-###### 👋Hi there!:relaxed: I'm a Data Scientist, and I'm using Python to analyze data and make several ML models.
+##### 👋Hi there!:relaxed: I'm a Data Scientist, and I'm using Python to analyze data and make several ML models.
 
 
 
