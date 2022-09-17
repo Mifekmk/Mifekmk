@@ -5,6 +5,9 @@
 ##### I'm trying to live a challenging life without regrets.
 ##### I will be a Data Scientist who can bring good results!!:fire:
 
+### :metal:Skills
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+file:///C:/Users/sony6/Downloads/python.svg
 
 <!--
 **Mifekmk/Mifekmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
