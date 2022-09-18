@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=ffc0cb&height=250&section=header&text=MinkyuKim%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=ffc0cb&height=250&section=header&text=MinkyuKim%20GitHub&fontColor=808080&fontSize=70&animation=scaleIn)
 
 ## :bowtie: Introduction
 #### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models
