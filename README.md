@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
 ## :bowtie: Introduction
 #### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models
