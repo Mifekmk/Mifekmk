@@ -36,7 +36,7 @@
 
 <div align='center'>
 
-  ## Stats:bookmark:
+  ## :bookmark:Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mifekmk&show_icons=true&theme=moltack)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mifekmk&layout=compact&theme=moltack)
