@@ -18,7 +18,7 @@
 ## :envelope: Contact
 #### :email: rlaalsrb3246@gmail.com
 #### :email: sony667@naver.com
-#### kaggle: https://www.kaggle.com/rlaalsrb3246
+#### :key: https://www.kaggle.com/rlaalsrb3246
 
 ## :metal:Skills
 
