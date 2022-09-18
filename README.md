@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6ccad0,100:89a5ea&height=300&section=header&text=Minkyu_Kim%20render&fontSize=90&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6ccad0,100:89a5ea&height=300&section=header&text=Minkyu_Kim%20&fontSize=90&fontAlign=70)
 
 ## :bowtie: Introduction
 #### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models
