@@ -37,9 +37,9 @@
 <div align='center'>
 
   ## Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mifekmk&show_icons=true&theme=onedark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mifekmk&show_icons=true&theme=moltack)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mifekmk&layout=compact&theme=gruvbox_light)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mifekmk&layout=compact&theme=moltack)
   
   </div>
 
