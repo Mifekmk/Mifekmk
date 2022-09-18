@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=ffc0cb&height=250&section=header&text=MinkyuKim%20GitHub&fontColor=808080&fontSize=70&descSize=20&animation=scaleIn)
 
+<div align='center'>
+
+## Welcome!!/play clowntown
+
+</div>
+
 ## :bowtie: Introduction
 #### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models
 #### I like various experiences because I am curious.:musical_note:
