@@ -12,7 +12,7 @@
 #### I like various experiences because I am curious.:musical_note:
 #### I like to acquire new knowledge quickly and apply what I learned to work right away.:thumbsup:
 #### I'm very interested in Outlier detection, Time series analysis, and Regression Prediction analysis models.
-#### My goal is to become a capable machine learning engineer who can help my business in the future.
+#### My goal is to become a competent analyst who can produce results that can help businesses by using Machine Learning and Deep Learning.
 
 ## :envelope: Contact
 #### :email: rlaalsrb3246@gmail.com
