@@ -11,9 +11,8 @@
 #### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models.
 #### I like various experiences because I am curious.:musical_note:
 #### I like to acquire new knowledge quickly and apply what I learned to work right away.:thumbsup:
-
-#### I'm trying to live a challenging life without regrets.
-#### I will be a Data Scientist who can bring good results!!:fire:
+#### I'm very interested in Outlier detection, Time series analysis, and Regression Prediction analysis models.
+#### My goal is to become a capable machine learning engineer who can help my business in the future.
 
 ## :envelope: Contact
 #### :email: rlaalsrb3246@gmail.com
