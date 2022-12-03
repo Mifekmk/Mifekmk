@@ -8,11 +8,10 @@
 
 
 ## :bowtie: Introduction
-#### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using ML models.
+#### 👋Hi there!:relaxed: I'm a Data Analyst, and I'm using Python to analyze the data and get insights using Machine Learning and Deep Learning.
 #### I like various experiences because I am curious.:musical_note:
 #### I like to acquire new knowledge quickly and apply what I learned to work right away.:thumbsup:
-#### I'm very interested in Outlier detection, Time series analysis, and Regression Prediction analysis models.
-#### My goal is to become a competent analyst who can produce results that can help businesses by using Machine Learning and Deep Learning.
+#### I want to make a good impact on my business with data.
 
 ## :envelope: Contact
 #### :email: rlaalsrb3246@gmail.com
